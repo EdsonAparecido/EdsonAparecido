@@ -16,6 +16,7 @@
 
 ## 📲 Contato:
 [LinkedIn](https://www.linkedin.com/in/edson-aparecido-da-silva-a7b095328/)
+
 Email: edsonaparecidodasilva022007@gmail.com
 
 ### Muito obrigado!
