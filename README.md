@@ -6,6 +6,9 @@
 ## 📚Estudando no momento:
 
 - Java(POO, JDBC)
+- SpringBoot
+- Validações
+- Tratamento de exceções
 - MySQL
 - Git e Github
 
