@@ -1,26 +1,89 @@
-# OI! Tudo bem?
-# Eu sou o Edson!
+# Edson Ap.🧑🏼‍💻
 
-## 👨‍🎓Ensino Superior: Ciências da computação em andamento(1/8)
+**`Desenvolvedor Java`**
 
-## 📚Estudando no momento:
+Muito prazer, me chamo Edson Aparecido da Silva, tenho 18 anos, e sou natural de Salto/Sp.</br>
+Atualmente estou cursando o 2º Semestre de Ciências da computação
 
-- Java(POO, JDBC)
-- SpringBoot
-- Validações
-- Tratamento de exceções
-- MySQL
-- Git e Github
+## Linguagens e tecnologias
+<img
+    align="left"
+    alt="Java"
+    title="Java"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
+<img
+    align="left"
+    alt="SpringBoot"
+    title="SpringBoot"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+/>
+<img
+    align="left"
+    alt="MySql"
+    title="MySql"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
+<img
+    align="left"
+    alt="Git"
+    title="Git"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+<img
+    align="left"
+    alt="IntelliJ"
+    title="IntelliJ"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"
+/>
+</br>
+</br>
+### Estatísticas
 
-## 🎯Objetivos:
+<img
+    alt="StatusGit"
+    title="StatusGit"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api?username=EdsonAparecido&show_icons=true&bg_color=00000000&include_all_commits=true&locale=pt-pt"
+/>
 
-- Conseguir um estágio
-- Criar um projeto completo
+<img
+    alt="StatusGit"
+    title="StatusGit"
+    height="150"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonAparecido&locale=pt-br&bg_color=00000000&layout=compact&custom_title=Linguagens💾"
+/>
 
-## 📲 Contato:
-Email: edsonaparecidodasilva022007@gmail.com
+</br>
+</br>
 
-[LinkedIn](https://www.linkedin.com/in/edson-aparecido-da-silva-a7b095328/)
+### Contato
 
-### Muito obrigado!
-  
+[<img
+    alt="E-mail"
+    title="E-mail"
+    height="30px"
+    style="padding-right: 10px;"
+    src="https://custom-icon-badges.demolab.com/badge/edsonaparecidodasilva022007@gmail.com-blue.svg?logo=mail"
+/>](edsonaparecidodasilva022007@gmail.com)
+
+[<img
+    alt="LinkedIN"
+    title="LinkedIN"
+    height="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+/>](https://www.linkedin.com/in/edson-aparecido-da-silva-a7b095328/)
+</br>
+
+## Muito obrigado!
