@@ -69,13 +69,13 @@ Atualmente estou cursando o 2º Semestre de Ciências da computação
 
 ### Contato
 
-[<img
+<img
     alt="E-mail"
     title="E-mail"
     height="30px"
     style="padding-right: 10px;"
     src="https://custom-icon-badges.demolab.com/badge/edsonaparecidodasilva022007@gmail.com-blue.svg?logo=mail"
-/>](edsonaparecidodasilva022007@gmail.com)
+/>
 
 
 
